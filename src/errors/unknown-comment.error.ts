@@ -1,0 +1,1 @@
+export class UnknownCommentError extends Error { }
